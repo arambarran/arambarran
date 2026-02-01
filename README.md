@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi, I’m Akshay 👋
 
-<!--
-**arambarran/arambarran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering (Co-op) student at the University of Guelph  
+Specializing in Data Science, NLP, and full-stack systems
 
-Here are some ideas to get you started:
+I build data-driven applications and analytics pipelines, with experience spanning academic research, fintech co-op, and real-world business analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I’m working on
+- Undergraduate NLP research analyzing over 500K co-op job postings to study shifts in foundational skill demand
+- Full-stack team projects using React, TypeScript, Spring Boot, and relational databases
+- Data science and simulation tools, including ML-driven strategy analysis
+
+### 🧠 Experience highlights
+- **Undergraduate Researcher**  
+  Large-scale NLP pipelines for skill extraction and labour market trend analysis using Python, pandas, scikit-learn, and LLM-based workflows
+- **Software Developer Co-op @ Guap**  
+  Built and tested kiosk software for stablecoin-to-cash transactions using TypeScript, Node.js, React, Jest, and GitHub Actions CI
+- **Data Analyst Intern @ NOVO Farms**  
+  Created Power BI dashboards, automated MySQL reporting workflows, and analyzed e-commerce KPIs to inform pricing and sales strategy
+
+### 🧰 Tech stack
+- **Languages:** Python, TypeScript, JavaScript, Java, C, SQL  
+- **Frameworks:** React, Node.js, Spring Boot, FastAPI  
+- **Data & ML:** pandas, scikit-learn, NumPy, Plotly  
+- **Databases:** PostgreSQL, MySQL, MariaDB  
+- **Dev & DevOps:** Git, GitHub/GitLab, GitHub Actions, Docker, Jest, Linux  
+- **Tools:** Power BI, Jupyter, VS Code
+
+### ⭐ Featured projects
+- **RaceSim** – F1 strategy optimisation tool using ML models and simulation to compare pit and tyre strategies  
+- **ascend.py** – Intelligent tutoring system that adapts Python programming tasks using mastery-based progression and ML-driven difficulty adjustment
+
+### 🌍 Fun fact
+Originally from Trinidad & Tobago 🌴, now studying and building software in Canada 🍁
+
+### 📫 Connect
+- LinkedIn: https://linkedin.com/in/akshayrambarran
+- GitHub: https://github.com/arambarran
+
