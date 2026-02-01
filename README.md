@@ -3,7 +3,7 @@
 Software Engineering (Co-op) student at the University of Guelph  
 Specializing in Data Science, NLP, and full-stack systems
 
-I build data-driven applications and analytics pipelines, with experience spanning academic research, fintech co-op, and real-world business analytics.
+I build data-driven applications and analytics pipelines across research, fintech, and business domains.
 
 ### 🔭 What I’m working on
 - Undergraduate NLP research analyzing over 500K co-op job postings to study shifts in foundational skill demand
@@ -21,7 +21,7 @@ I build data-driven applications and analytics pipelines, with experience spanni
 ### 🧰 Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,c,react,nodejs,spring,postgres,mysql,git,github,docker,vscode&size=28" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,c,react,nodejs,spring,postgres,mysql,git,docker,vscode&size=28" />
 </p>
 
 • Languages: Python, TypeScript, JavaScript, Java, C, SQL  
