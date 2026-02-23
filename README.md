@@ -1,4 +1,4 @@
-## Hi, I’m Akshay 👋
+## `print("hello, i'm akshay")`
 
 Software Engineering (Co-op) student at the University of Guelph  
 Specializing in Data Science, NLP, and full-stack systems
